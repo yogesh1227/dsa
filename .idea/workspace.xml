@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="136a04af-77b0-4f56-9e70-bd5c1ab0571d" name="Changes" comment="" />
+    <list default="true" id="136a04af-77b0-4f56-9e70-bd5c1ab0571d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BubbleSort.executor": "Run",
     "Application.LinearSearch.executor": "Run",
     "Application.binaryPractice.executor": "Run",
     "Application.orderAgnosticBinarySearch.executor": "Run",
@@ -50,7 +53,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.orderAgnosticBinarySearch">
+  <component name="RunManager">
     <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Search.linearSearch.LinearSearch" />
       <module name="DSA" />
@@ -114,7 +117,8 @@
       <option name="presentableId" value="Default" />
       <updated>1708734560170</updated>
       <workItem from="1708734561214" duration="1401000" />
-      <workItem from="1708747928609" duration="6021000" />
+      <workItem from="1708747928609" duration="6441000" />
+      <workItem from="1708804167112" duration="1613000" />
     </task>
     <servers />
   </component>
