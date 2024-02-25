@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="136a04af-77b0-4f56-9e70-bd5c1ab0571d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search/binarysearch/binaryPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search/binarysearch/binaryPractice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BubbleSort.executor": "Run",
+    "Application.CeilingProblem.executor": "Run",
+    "Application.Floor.executor": "Run",
+    "Application.Leetcode744.executor": "Run",
     "Application.LinearSearch.executor": "Run",
     "Application.binaryPractice.executor": "Run",
     "Application.orderAgnosticBinarySearch.executor": "Run",
@@ -53,7 +57,33 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Leetcode744">
+    <configuration name="CeilingProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search.binarysearch.CeilingProblem" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Search.binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode744" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search.binarysearch.Leetcode744" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Search.binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Search.linearSearch.LinearSearch" />
       <module name="DSA" />
@@ -95,6 +125,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode744" />
+        <item itemvalue="Application.CeilingProblem" />
         <item itemvalue="Application.orderAgnosticBinarySearch" />
         <item itemvalue="Application.binaryPractice" />
         <item itemvalue="Application.LinearSearch" />
@@ -118,7 +150,7 @@
       <updated>1708734560170</updated>
       <workItem from="1708734561214" duration="1401000" />
       <workItem from="1708747928609" duration="6441000" />
-      <workItem from="1708804167112" duration="1613000" />
+      <workItem from="1708804167112" duration="10126000" />
     </task>
     <servers />
   </component>
@@ -167,6 +199,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Search/binarysearch/CeilingProblem.java</url>
+          <line>4</line>
+          <properties class="Search.binarysearch.CeilingProblem" method="Ceiling">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Search/binarysearch/Leetcode744.java</url>
+          <line>11</line>
+          <properties class="Search.binarysearch.Leetcode744" method="SmallestLetterGreaterThanTarget">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

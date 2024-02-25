@@ -26,6 +26,7 @@ public class binaryPractice {
              return mid;
            }
 
+
        }
         return -1;
     }
