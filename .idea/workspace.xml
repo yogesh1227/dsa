@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="136a04af-77b0-4f56-9e70-bd5c1ab0571d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Search/binarysearch/Leetcode744.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search/binarysearch/Leetcode744.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +36,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BubbleSort.executor": "Run",
+    "Application.Calculator.executor": "Run",
     "Application.CeilingProblem.executor": "Run",
+    "Application.DigitInNumber.executor": "Run",
     "Application.FibonacciProblem.executor": "Run",
     "Application.FirstLastOccuranceOfNumber.executor": "Run",
+    "Application.FlipNumber.executor": "Run",
     "Application.Floor.executor": "Run",
     "Application.LargestNumber.executor": "Run",
     "Application.Leetcode34.executor": "Run",
@@ -64,6 +66,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BasicPrograms" />
       <recent name="Search.binarysearch" />
     </key>
   </component>
@@ -162,6 +165,7 @@
       <workItem from="1708747928609" duration="6441000" />
       <workItem from="1708804167112" duration="16052000" />
       <workItem from="1708979217113" duration="3804000" />
+      <workItem from="1709065624640" duration="3437000" />
     </task>
     <servers />
   </component>
@@ -237,6 +241,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BasicPrograms/FlipNumber.java</url>
+          <line>4</line>
+          <properties class="BasicPrograms.FlipNumber" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
