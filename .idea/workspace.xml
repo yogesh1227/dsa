@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="136a04af-77b0-4f56-9e70-bd5c1ab0571d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/BasicPrograms/DayNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicPrograms/DayNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,7 @@
     "Application.BubbleSort.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.CeilingProblem.executor": "Run",
+    "Application.DayNumber.executor": "Run",
     "Application.DigitInNumber.executor": "Run",
     "Application.FibonacciProblem.executor": "Run",
     "Application.FirstLastOccuranceOfNumber.executor": "Run",
@@ -47,6 +48,7 @@
     "Application.Leetcode34.executor": "Run",
     "Application.Leetcode744.executor": "Run",
     "Application.LinearSearch.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
     "Application.SwitchProgram.executor": "Run",
     "Application.binaryPractice.executor": "Run",
     "Application.loops.executor": "Run",
@@ -167,7 +169,7 @@
       <workItem from="1708804167112" duration="16052000" />
       <workItem from="1708979217113" duration="3804000" />
       <workItem from="1709065624640" duration="4108000" />
-      <workItem from="1709315925079" duration="1124000" />
+      <workItem from="1709315925079" duration="2363000" />
     </task>
     <servers />
   </component>
