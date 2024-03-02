@@ -49,6 +49,7 @@
     "Application.Leetcode34.executor": "Run",
     "Application.Leetcode744.executor": "Run",
     "Application.LinearSearch.executor": "Run",
+    "Application.MultipleArrays.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
     "Application.SwitchProgram.executor": "Run",
     "Application.binaryPractice.executor": "Run",
@@ -74,7 +75,7 @@
       <recent name="Search.binarysearch" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MultipleArrays">
     <configuration name="CeilingProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Search.binarysearch.CeilingProblem" />
       <module name="DSA" />
@@ -101,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search.linearSearch.LinearSearch" />
+    <configuration name="MultipleArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicPrograms.MultipleArrays" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Search.linearSearch.*" />
+          <option name="PATTERN" value="BasicPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultipleArrays" />
         <item itemvalue="Application.Leetcode744" />
         <item itemvalue="Application.CeilingProblem" />
         <item itemvalue="Application.orderAgnosticBinarySearch" />
         <item itemvalue="Application.binaryPractice" />
-        <item itemvalue="Application.LinearSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +172,7 @@
       <workItem from="1708979217113" duration="3804000" />
       <workItem from="1709065624640" duration="4108000" />
       <workItem from="1709315925079" duration="3475000" />
-      <workItem from="1709399056223" duration="770000" />
+      <workItem from="1709399056223" duration="2518000" />
     </task>
     <servers />
   </component>
