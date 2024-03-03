@@ -75,7 +75,7 @@
       <recent name="Search.binarysearch" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MultipleArrays">
+  <component name="RunManager">
     <configuration name="CeilingProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Search.binarysearch.CeilingProblem" />
       <module name="DSA" />
@@ -172,7 +172,7 @@
       <workItem from="1708979217113" duration="3804000" />
       <workItem from="1709065624640" duration="4108000" />
       <workItem from="1709315925079" duration="3475000" />
-      <workItem from="1709399056223" duration="2518000" />
+      <workItem from="1709399056223" duration="3474000" />
     </task>
     <servers />
   </component>
