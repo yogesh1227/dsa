@@ -50,9 +50,11 @@
     "Application.Leetcode34.executor": "Run",
     "Application.Leetcode744.executor": "Run",
     "Application.LinearSearch.executor": "Run",
+    "Application.MaximumValue.executor": "Run",
     "Application.MultipleArrays.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
     "Application.Swap.executor": "Run",
+    "Application.SwapArray.executor": "Run",
     "Application.SwitchProgram.executor": "Run",
     "Application.binaryPractice.executor": "Run",
     "Application.loops.executor": "Run",
@@ -73,6 +75,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Arrays" />
       <recent name="BasicPrograms" />
       <recent name="Search.binarysearch" />
     </key>
@@ -174,7 +177,7 @@
       <workItem from="1708979217113" duration="3804000" />
       <workItem from="1709065624640" duration="4108000" />
       <workItem from="1709315925079" duration="3475000" />
-      <workItem from="1709399056223" duration="5893000" />
+      <workItem from="1709399056223" duration="9338000" />
     </task>
     <servers />
   </component>
@@ -259,6 +262,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays/SwapArray.java</url>
+          <line>9</line>
+          <properties class="Arrays.SwapArray" method="SwapFun">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
