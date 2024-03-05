@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="136a04af-77b0-4f56-9e70-bd5c1ab0571d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Search/linearSearch/MinNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search/linearSearch/MinNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,7 @@
     "Application.LinearSearch.executor": "Run",
     "Application.LinearSearchString.executor": "Run",
     "Application.MaximumValue.executor": "Run",
+    "Application.MinNumber.executor": "Run",
     "Application.MultipleArrays.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
     "Application.Swap.executor": "Run",
@@ -181,7 +181,7 @@
       <workItem from="1709065624640" duration="4108000" />
       <workItem from="1709315925079" duration="3475000" />
       <workItem from="1709399056223" duration="10001000" />
-      <workItem from="1709658881506" duration="3192000" />
+      <workItem from="1709658881506" duration="3402000" />
     </task>
     <servers />
   </component>
