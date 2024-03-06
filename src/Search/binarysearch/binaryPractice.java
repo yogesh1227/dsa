@@ -34,8 +34,8 @@ public class binaryPractice {
 
     public static void main(String[] args) {
         int[] array = {1, 2, 3, 4, 6, 7, 8, 9};
-        int target = 18;
+        int target = 8;
         int ans = binarySearch(array, target);
-        System.out.println("aNSWRE IS ::"+ans);
+        System.out.println("answer is --> "+ans);
     }
 }

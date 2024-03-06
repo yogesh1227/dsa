@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="136a04af-77b0-4f56-9e70-bd5c1ab0571d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search/binarysearch/FirstLastOccuranceOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search/binarysearch/FirstLastOccuranceOfNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search/binarysearch/binaryPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search/binarysearch/binaryPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search/linearSearch/MaxNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search/linearSearch/MaxNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search/linearSearch/MinNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search/linearSearch/MinNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search/orderagnosticbinarysearch/orderAgnosticBinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search/orderagnosticbinarysearch/orderAgnosticBinarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +46,9 @@
     "Application.CeilingProblem.executor": "Run",
     "Application.DayNumber.executor": "Run",
     "Application.DigitInNumber.executor": "Run",
+    "Application.EvenDigitQuestions.executor": "Run",
     "Application.FibonacciProblem.executor": "Run",
+    "Application.FindEvenNumberIntegrs.executor": "Run",
     "Application.FirstLastOccuranceOfNumber.executor": "Run",
     "Application.FlipNumber.executor": "Run",
     "Application.Floor.executor": "Run",
@@ -52,10 +59,13 @@
     "Application.LinearS.executor": "Run",
     "Application.LinearSearch.executor": "Run",
     "Application.LinearSearchString.executor": "Run",
+    "Application.MaxNumber.executor": "Run",
     "Application.MaximumValue.executor": "Run",
+    "Application.MaximumWealthQuestion.executor": "Run",
     "Application.MinNumber.executor": "Run",
     "Application.MultipleArrays.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
+    "Application.SearchIn2DArray.executor": "Run",
     "Application.Swap.executor": "Run",
     "Application.SwapArray.executor": "Run",
     "Application.SwitchProgram.executor": "Run",
@@ -83,9 +93,22 @@
       <recent name="Search.binarysearch" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="CeilingProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search.binarysearch.CeilingProblem" />
+  <component name="RunManager" selected="Application.FirstLastOccuranceOfNumber">
+    <configuration name="EvenDigitQuestions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.EvenDigitQuestions" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstLastOccuranceOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search.binarysearch.FirstLastOccuranceOfNumber" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -97,25 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode744" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search.binarysearch.Leetcode744" />
+    <configuration name="MaximumWealthQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.MaximumWealthQuestion" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Search.binarysearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MultipleArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicPrograms.MultipleArrays" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BasicPrograms.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.binaryPractice" />
-        <item itemvalue="Application.MultipleArrays" />
-        <item itemvalue="Application.Leetcode744" />
-        <item itemvalue="Application.CeilingProblem" />
+        <item itemvalue="Application.FirstLastOccuranceOfNumber" />
         <item itemvalue="Application.orderAgnosticBinarySearch" />
+        <item itemvalue="Application.binaryPractice" />
+        <item itemvalue="Application.MaximumWealthQuestion" />
+        <item itemvalue="Application.EvenDigitQuestions" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +191,7 @@
       <workItem from="1709065624640" duration="4108000" />
       <workItem from="1709315925079" duration="3475000" />
       <workItem from="1709399056223" duration="10001000" />
-      <workItem from="1709658881506" duration="3402000" />
+      <workItem from="1709658881506" duration="16728000" />
     </task>
     <servers />
   </component>
@@ -209,22 +219,27 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Search/orderagnosticbinarysearch/orderAgnosticBinarySearch.java</url>
-          <line>41</line>
+          <line>28</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Search/orderagnosticbinarysearch/orderAgnosticBinarySearch.java</url>
-          <line>39</line>
+          <line>26</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Search/orderagnosticbinarysearch/orderAgnosticBinarySearch.java</url>
-          <line>23</line>
+          <line>10</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/EvenDigitQuestions.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Search/orderagnosticbinarysearch/orderAgnosticBinarySearch.java</url>
-          <line>6</line>
+          <line>3</line>
           <properties class="Search.orderagnosticbinarysearch.orderAgnosticBinarySearch" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -266,6 +281,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays/FindEvenNumberIntegrs.java</url>
+          <line>3</line>
+          <properties class="Arrays.FindEvenNumberIntegrs" method="finEvenNumberIntegers">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

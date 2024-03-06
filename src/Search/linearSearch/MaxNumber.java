@@ -1,6 +1,10 @@
 package Search.linearSearch;
 
 public class MaxNumber {
+    // in this we are finding the max number in the array
+    // we are taking the first element in the array as max number
+    // then we are appling a foor loop and comparing each element if the element in array is greater we are
+    // replacing the element as max element
     public static int number(int[] arr) {
         int max = arr[0];
         for (int i = 0; i < arr.length; i++) {
