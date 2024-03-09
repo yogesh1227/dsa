@@ -62,6 +62,7 @@
     "Application.MinNumber.executor": "Run",
     "Application.MultipleArrays.executor": "Run",
     "Application.Pattern1.executor": "Run",
+    "Application.Pattern3.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
     "Application.SearchIn2DArray.executor": "Run",
     "Application.Swap.executor": "Run",
@@ -92,22 +93,9 @@
       <recent name="BasicPrograms" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.demo">
+  <component name="RunManager" selected="Application.Pattern3">
     <configuration name="FirstLastOccurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Search.binarysearch.FirstLastOccurance" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Search.binarysearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstLastOccuranceOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search.binarysearch.FirstLastOccuranceOfNumber" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -145,6 +133,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pattern3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.Pattern3" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pattern.demo" />
       <module name="DSA" />
@@ -160,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern3" />
         <item itemvalue="Application.demo" />
         <item itemvalue="Application.Pattern1" />
         <item itemvalue="Application.LargestElementInMountain" />
         <item itemvalue="Application.FirstLastOccurance" />
-        <item itemvalue="Application.FirstLastOccuranceOfNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +193,7 @@
       <workItem from="1709399056223" duration="10001000" />
       <workItem from="1709658881506" duration="23791000" />
       <workItem from="1709904459006" duration="22000" />
-      <workItem from="1709954221456" duration="968000" />
+      <workItem from="1709954221456" duration="2323000" />
     </task>
     <servers />
   </component>
