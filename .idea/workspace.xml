@@ -77,6 +77,7 @@
     "Application.demo.executor": "Run",
     "Application.loops.executor": "Run",
     "Application.orderAgnosticBinarySearch.executor": "Run",
+    "Application.practice.Test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -202,7 +203,7 @@
       <workItem from="1711292698839" duration="1350000" />
       <workItem from="1711472402309" duration="9000" />
       <workItem from="1714166195341" duration="1625000" />
-      <workItem from="1715001140113" duration="5401000" />
+      <workItem from="1715001140113" duration="11116000" />
     </task>
     <servers />
   </component>
