@@ -4,7 +4,13 @@ import java.util.Arrays;
 
 public class BubbleSort {
 
+    // In bubble sort the adjacent elements are compared
+    // therefore after every round the largest element will go towards the right place that is last place
+    // then the 2nd largest element will go to its place and so on.
+
+
     public static void bubbleSortLogic(int arr[]){
+
         boolean swapped = false;
         for(int i =0; i< arr.length-1;i++)
         {
