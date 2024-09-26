@@ -4,6 +4,7 @@ public class TwoSum {
 
     // https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=rab78cw1
     public static void main(String[] args) {
+//        sample comments
 
     }
         public int[] twoSum(int[] nums, int target) {

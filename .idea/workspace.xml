@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="136a04af-77b0-4f56-9e70-bd5c1ab0571d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/cody_history.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cody_history.xml" afterDir="false" />
+    <list default="true" id="136a04af-77b0-4f56-9e70-bd5c1ab0571d" name="Changes" comment="linear search">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Search/linearSearch/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search/linearSearch/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/TwoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,80 +37,80 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.App.executor": "Run",
-    "Application.ArrayListExample.executor": "Run",
-    "Application.BubbleSort.executor": "Run",
-    "Application.Calculator.executor": "Run",
-    "Application.CeilingProblem.executor": "Run",
-    "Application.DayNumber.executor": "Run",
-    "Application.Demo.executor": "Run",
-    "Application.DigitInNumber.executor": "Run",
-    "Application.EvenDigitQuestions.executor": "Run",
-    "Application.FibonacciProblem.executor": "Run",
-    "Application.FindEvenNumberIntegrs.executor": "Run",
-    "Application.FirstLastOccurance.executor": "Run",
-    "Application.FirstLastOccuranceOfNumber.executor": "Run",
-    "Application.FlipNumber.executor": "Run",
-    "Application.Floor.executor": "Run",
-    "Application.InputArrays.executor": "Run",
-    "Application.LargestElementInMountain.executor": "Run",
-    "Application.LargestNumber.executor": "Run",
-    "Application.LeapYear.executor": "Run",
-    "Application.Leetcode34.executor": "Run",
-    "Application.Leetcode744.executor": "Run",
-    "Application.LinearS.executor": "Run",
-    "Application.LinearSearch.executor": "Run",
-    "Application.LinearSearchString.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MaxNumber.executor": "Run",
-    "Application.MaximumValue.executor": "Run",
-    "Application.MaximumWealthQuestion.executor": "Run",
-    "Application.MinErrors.executor": "Run",
-    "Application.MinNumber.executor": "Run",
-    "Application.MultipleArrays.executor": "Run",
-    "Application.PalindromeString.executor": "Run",
-    "Application.Pattern1.executor": "Run",
-    "Application.Pattern3.executor": "Run",
-    "Application.PrimeNumber.executor": "Run",
-    "Application.RotatedBinarySearch.executor": "Run",
-    "Application.SearchIn2DArray.executor": "Run",
-    "Application.SelectionSort.executor": "Run",
-    "Application.Shape.Main.executor": "Run",
-    "Application.StringInput.executor": "Run",
-    "Application.Student.executor": "Run",
-    "Application.StudentManagementSystem.executor": "Run",
-    "Application.StudentSystem.executor": "Run",
-    "Application.Swap.executor": "Run",
-    "Application.SwapArray.executor": "Run",
-    "Application.SwitchProgram.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.TwoSum.executor": "Run",
-    "Application.add.executor": "Run",
-    "Application.binaryPractice.executor": "Run",
-    "Application.demo.executor": "Run",
-    "Application.loops.executor": "Run",
-    "Application.orderAgnosticBinarySearch.executor": "Run",
-    "Application.practice.Test.executor": "Run",
-    "RunOnceActivity.CodyAccountHistoryMigration": "true",
-    "RunOnceActivity.CodyConvertUrlToCodebaseName": "true",
-    "RunOnceActivity.CodyHistoryLlmMigration": "true",
-    "RunOnceActivity.CodyProjectSettingsMigration": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Yogesh Kakkar/Desktop/Leetcode",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Yogesh Kakkar/Desktop/Placement2024/DSA/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayListExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CeilingProblem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DayNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DigitInNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenDigitQuestions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonacciProblem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindEvenNumberIntegrs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstLastOccurance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstLastOccuranceOfNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlipNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Floor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InputArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestElementInMountain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Leetcode34.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Leetcode744.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearchString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumWealthQuestion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinErrors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultipleArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotatedBinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchIn2DArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shape.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringInput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentManagementSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwapArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.add.executor&quot;: &quot;Run&quot;,
+    &quot;Application.binaryPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.loops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.orderAgnosticBinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice.Test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.CodyAccountHistoryMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyConvertUrlToCodebaseName&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyHistoryLlmMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyProjectSettingsMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Yogesh Kakkar/Desktop/Leetcode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Yogesh Kakkar/Desktop/Placement2024/DSA/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Search.binarysearch" />
@@ -236,7 +235,17 @@
       <workItem from="1724029206570" duration="2417000" />
       <workItem from="1725498702719" duration="2170000" />
       <workItem from="1725595473648" duration="12000" />
+      <workItem from="1727311372137" duration="652000" />
     </task>
+    <task id="LOCAL-00001" summary="linear search">
+      <option name="closed" value="true" />
+      <created>1727311608817</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727311608817</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,6 +261,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inheritence practice" />
+    <MESSAGE value="linear search" />
+    <option name="LAST_COMMIT_MESSAGE" value="linear search" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
