@@ -18,16 +18,17 @@ public class LinearSearch {
         {
             if( num == arr[i])
             {
-//                System.out.println("number is at location " + arr[i]);
+                System.out.println("number is at location " + i);
                     return i;
             }
         }
+        System.out.println("number does not exist in this array");
         return  -1;
     }
 
     public static void main(String[] args) {
         int[] array={2,5,88,99,100,29,0};
-        int target=292;
+        int target=29;
         System.out.println(linearSearch(array,target));
     }
 }

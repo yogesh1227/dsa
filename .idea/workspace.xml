@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="136a04af-77b0-4f56-9e70-bd5c1ab0571d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/cody_history.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cody_history.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String/PalindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/PalindromeString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search/linearSearch/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search/linearSearch/LinearSearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +58,7 @@
     "Application.InputArrays.executor": "Run",
     "Application.LargestElementInMountain.executor": "Run",
     "Application.LargestNumber.executor": "Run",
+    "Application.LeapYear.executor": "Run",
     "Application.Leetcode34.executor": "Run",
     "Application.Leetcode744.executor": "Run",
     "Application.LinearS.executor": "Run",
@@ -78,6 +78,7 @@
     "Application.RotatedBinarySearch.executor": "Run",
     "Application.SearchIn2DArray.executor": "Run",
     "Application.SelectionSort.executor": "Run",
+    "Application.Shape.Main.executor": "Run",
     "Application.StringInput.executor": "Run",
     "Application.Student.executor": "Run",
     "Application.StudentManagementSystem.executor": "Run",
@@ -101,7 +102,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Yogesh Kakkar/Desktop/DSA",
+    "last_opened_file_path": "C:/Users/Yogesh Kakkar/Desktop/Leetcode",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -118,9 +119,9 @@
       <recent name="BasicPrograms" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.App" />
+  <component name="RunManager" selected="Application.LargestNumber">
+    <configuration name="LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.LargestNumber" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -132,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Transport.Main" />
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search.linearSearch.LinearSearch" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Transport.*" />
+          <option name="PATTERN" value="Search.linearSearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.PalindromeString" />
+    <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.Pattern1" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String.*" />
+          <option name="PATTERN" value="pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StudentMAnagementSystem.StudentSystem" />
+    <configuration name="Shape.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shape.Main" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StudentMAnagementSystem.*" />
+          <option name="PATTERN" value="Shape.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicPrograms.add" />
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.demo" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicPrograms.*" />
+          <option name="PATTERN" value="pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.PalindromeString" />
-        <item itemvalue="Application.add" />
-        <item itemvalue="Application.StudentSystem" />
+        <item itemvalue="Application.LargestNumber" />
+        <item itemvalue="Application.LinearSearch" />
+        <item itemvalue="Application.Pattern1" />
+        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.Shape.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +231,11 @@
       <workItem from="1719538028628" duration="597000" />
       <workItem from="1721152566473" duration="740000" />
       <workItem from="1722900542918" duration="20000" />
-      <workItem from="1722900597555" duration="9682000" />
+      <workItem from="1722900597555" duration="10642000" />
+      <workItem from="1723666936481" duration="5381000" />
+      <workItem from="1724029206570" duration="2417000" />
+      <workItem from="1725498702719" duration="2170000" />
+      <workItem from="1725595473648" duration="12000" />
     </task>
     <servers />
   </component>
